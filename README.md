@@ -1,12 +1,5 @@
-### Nope
+Mischa 🧸
 ---
->"Inspirational Quote" -Me
-## About me
-
-Trying to level up from scrippt-kiddie to something not as embarassing
-
----
-
 <details>
 <summary>My top languages</summary>
 
@@ -17,6 +10,15 @@ Trying to level up from scrippt-kiddie to something not as embarassing
 |     3|           |
 
 </details>
+
+>"Inspirational Quote" -Me
+## About me
+
+Trying to level up from scrippt-kiddie to something not as embarassing
+
+---
+
+
 
 <!--
 **M1sch/M1sch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
