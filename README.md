@@ -19,7 +19,7 @@ Trying to level up from scrippt-kiddie to something not as embarassing
 
 👨‍🎓 Currently studying to become a **IT Specialist for System Integration**
 
-🌱 In my free time I like to tortue myself with writing scripts in **python**, **c#**, **unity**, **game design** and **game development**. 
+🌱 In my free time I like to tortue myself with writing scripts in **python**, **c#** and trying to learn **unity**, **game design** and **game development**. 
  
 ---
 
