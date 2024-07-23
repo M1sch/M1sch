@@ -7,11 +7,11 @@
 
 | Rank | Languages     |
 |-----:|---------------|
-|     1| Python        |
-|     2| C#            |
-|     3| SQL           |
-|     4| (HTML,CSS,JS) |
-|     5| PHP           |
+|     1|  Python       |
+|     2|  C#           |
+|     3|  SQL          |
+|     4|(HTML,CSS,JS)  |
+|     5|  PHP          |
 
 
 </details>
