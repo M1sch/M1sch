@@ -11,7 +11,7 @@
 |     2| C#            |
 |     3| SQL           |
 |     4| (HTML,CSS,JS) |
-|     5| SQL           |
+|     5| PHP           |
 
 
 </details>
