@@ -5,11 +5,14 @@
 <details>
 <summary>languages</summary>
 
-| Rank | Languages |
-|-----:|-----------|
-|     1| Python    |
-|     2| C#        |
-|     3|           |
+| Rank | Languages     |
+|-----:|---------------|
+|     1| Python        |
+|     2| C#            |
+|     3| SQL           |
+|     4| (HTML,CSS,JS) |
+|     5| SQL           |
+
 
 </details>
 
@@ -19,7 +22,7 @@ Trying to level up from scrippt-kiddie to something not as embarassing
 
 👨‍🎓 Currently studying to become a **System Engineer**
 
-🌱 In my free time I like to tortue myself with writing scripts in **python**, **c#** and trying to learn **unity**, **game design** and **game development**. 
+🌱 In my free time I like to tortue myself with writing scripts in **python**, **c#**, **SQL** and trying to learn **Godot** **UE**, **game-/ music-/** and **character-design** and **game development** in general. 
  
 ---
 
