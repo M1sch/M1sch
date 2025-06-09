@@ -1,6 +1,6 @@
 ### Mischa 🧸
 ---
->he/him
+>he/him | currently still a human
 
 >"Inspirational Quote" -Me
 
