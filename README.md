@@ -1,5 +1,7 @@
-### Mischa 🧸 > he/him
+### Mischa 🧸
 ---
+>he/him
+
 >"Inspirational Quote" -Me
 
 <details>
