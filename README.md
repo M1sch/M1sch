@@ -1,7 +1,5 @@
-### Mischa 🧸
+### 
 ---
->he/him | currently still a human
-
 >"Inspirational Quote" -Me
 
 <details>
@@ -22,7 +20,7 @@
 
 Trying to level up from scrippt-kiddie to something not as embarassing
 
-👨‍🎓 Currently studying to become a **System Engineer**
+👨‍🎓 **System Engineer**
 
 🌱 In my free time I like to tortue myself with writing scripts in **python**, **powershell** or **bash** |
 Also improving on **c#**, **SQL** and learning **Godot**, **UE**, **game-/ music-/** and **character-design** and **game development** in general. 
