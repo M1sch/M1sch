@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL"><img alt="Email" src="https://img.shields.io/badge/Email-contact-informational"></a>
-  <a href="https://www.linkedin.com/in/YOUR_HANDLE"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-connect-blue"></a>
-  <a href="https://YOUR_SITE"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-visit-success"></a>
+  <a href="mailto:Mi.Seifert@protonmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-contact-informational"></a>
+  <a href="https://www.linkedin.com/in/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-connect-blue"></a>
+  <a href="https://M1sch.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-visit-success"></a>
 </p>
 
 ## About
@@ -20,12 +20,15 @@ Mostly self-taught tech enthusiast and systems engineer.
 
 - Work: servers, clients, networks
 - Home: microcontrollers, home-labs, code
-- Focus: hands-on cybersecurity (logging, detections, hunting)
+- Focus: cybersecurity (logging, detections, hunting)
 
 ## What I’m doing right now
-- 🌱 Deepening **CyberSec** (blue team), improving **C#** and **SQL**
+- 🎯 Goal: move from general system engineering into **detection engineering** / **threat hunting** / **analasys**
+- 🌱 Deepening **CyberSec** (blue team), learning for Security+ Certification
+
+## Currently paused, but will resume
 - 🎮 Learning game dev with **Godot** and **Unreal Engine**
-- 🎯 Goal: move from general system engineering into **detection engineering** / **threat hunting**
+
 
 ## Skills
 
@@ -44,7 +47,7 @@ Mostly self-taught tech enthusiast and systems engineer.
 <details>
 <summary><b>💻 Coding</b></summary>
 
-**Main stack (auto-numbered by order):**
+**Main stack:**
 1. Python
 1. C/C++
 1. C#
@@ -66,8 +69,8 @@ Mostly self-taught tech enthusiast and systems engineer.
 - 🎮 Game Dev Experiments — _link_
 
 ## GitHub (optional widgets)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M1sch&show_icons=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=M1sch)
 
 <!-- Optional: trophies -->
 <!--
