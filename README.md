@@ -1,5 +1,5 @@
-<h1 align="center">Hello friend, I'm Michael Seifert</h1>
-**IT - System Engineer**
+<h1 align="center">Hello friend. I'm Michael Seifert</h1>
+<b>IT - System Engineer**</b> 
 
 I am an mostly autodidact tech enthusiast and a curious systems engineer. 
 At work I tinker with servers, clients and networks — at home with microcontrollers, home-labs and code.
