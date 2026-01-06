@@ -1,7 +1,9 @@
 **Hi - I'm Misha**
-👨‍🎓 **System Engineer**
+**IT - System Engineer**
 ---
+I am an autodidact, a programming enthusiast and a curious systems engineer. I tinker with servers, clouds and networks — and I'm learning to turn that curiosity into professional cybersecurity skills.
 
+Just coding for fun and to get better every day.
 🌱 In my free time I like to tortue myself by further deepening my knowledge in **CyberSec**, improving on **c#**, **SQL** and learning **game development** in **Godot** and **UE**.  
 
 ---
