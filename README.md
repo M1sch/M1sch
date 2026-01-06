@@ -18,15 +18,12 @@
 
 ## About me
 
-Trying to level up from scrippt-kiddie to something not as embarassing
-
 👨‍🎓 **System Engineer**
 
-🌱 In my free time I like to tortue myself with writing scripts in **python**, **powershell** or **bash** |
-Also improving on **c#**, **SQL** and learning **Godot**, **UE**, **game-/ music-/** and **character-design** and **game development** in general. 
+🌱 In my free time I like to tortue myself improve my knowledge in **CyberSec**, improving on **c#**, **SQL** and learning **game development** in **Godot** and **UE**. 
  
 ---
-
+ I'm currently working on a 
 
 
 <!--
