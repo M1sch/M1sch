@@ -2,7 +2,7 @@
 👨‍🎓 **System Engineer**
 ---
 
-🌱 In my free time I like to tortue myself improve my knowledge in **CyberSec**, improving on **c#**, **SQL** and learning **game development** in **Godot** and **UE**.  
+🌱 In my free time I like to tortue myself by further deepening my knowledge in **CyberSec**, improving on **c#**, **SQL** and learning **game development** in **Godot** and **UE**.  
 
 ---
 ###
@@ -14,11 +14,10 @@
 |     1|  Python       |
 |     2|  C#           |
 |     3|  SQL          |
-|     4|(HTML,CSS,JS)  |
+|     4| (HTML,CSS,JS) |
 |     5|  PHP          |
-
-
 </details>
+
  I'm currently working on a 
 
 
