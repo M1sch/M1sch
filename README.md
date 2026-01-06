@@ -1,4 +1,3 @@
-## About me
 **Hi - I'm Misha**
 👨‍🎓 **System Engineer**
 ---
