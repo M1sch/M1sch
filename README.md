@@ -1,8 +1,10 @@
 ## About me
 **Hi - I'm Misha**
 👨‍🎓 **System Engineer**
+---
 
 🌱 In my free time I like to tortue myself improve my knowledge in **CyberSec**, improving on **c#**, **SQL** and learning **game development** in **Godot** and **UE**.  
+
 ---
 ###
 <details>
