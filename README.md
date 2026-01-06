@@ -1,7 +1,10 @@
-### 
----
->"Inspirational Quote" -Me
+## About me
+**Hi - I'm Misha**
+👨‍🎓 **System Engineer**
 
+🌱 In my free time I like to tortue myself improve my knowledge in **CyberSec**, improving on **c#**, **SQL** and learning **game development** in **Godot** and **UE**.  
+---
+###
 <details>
 <summary>languages</summary>
 
@@ -15,14 +18,6 @@
 
 
 </details>
-
-## About me
-
-👨‍🎓 **System Engineer**
-
-🌱 In my free time I like to tortue myself improve my knowledge in **CyberSec**, improving on **c#**, **SQL** and learning **game development** in **Godot** and **UE**. 
- 
----
  I'm currently working on a 
 
 
