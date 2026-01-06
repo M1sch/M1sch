@@ -1,16 +1,20 @@
-**Hi - I'm Misha** <br>
+<h1 align="center">Hello friend, I'm Michael Seifert</h1>
 **IT - System Engineer**
----
-I am an autodidact, a programming enthusiast and a curious systems engineer. I tinker with servers, clouds and networks — and I'm learning to turn that curiosity into professional cybersecurity skills.
+
+I am an mostly autodidact tech enthusiast and a curious systems engineer. 
+At work I tinker with servers, clients and networks — at home with microcontrollers, home-labs and code.
+I'm learning to turn that curiosity into professional cybersecurity skills. <br><br>
+Just <b>coding</b> for fun and <b>to get better every day</b>. <br> 
+I'm practical, curious and enjoy diving into technical topics.<br><br> 
+I'm actively transitioning from general system engineering towards detection engineering and threat hunting
+— Learning CyberSecurity hands‑on through home-labs and private projects.
 
 Just coding for fun and to get better every day.
 🌱 In my free time I like to tortue myself by further deepening my knowledge in **CyberSec**, improving on **c#**, **SQL** and learning **game development** in **Godot** and **UE**.  
 
----
 ###
 <details>
 <summary>languages</summary>
-
 | Rank | Languages     |
 |-----:|---------------|
 |     1|  Python       |
