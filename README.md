@@ -67,10 +67,6 @@ Mostly self-taught tech enthusiast and systems engineer.
 - 🧪 Home Lab Notes — _link_
 - 🎮 Game Dev Experiments — _link_
 
-## GitHub (optional widgets)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M1sch&show_icons=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=M1sch)
-
 <!-- Optional: trophies -->
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME)](https://github.com/ryo-ma/github-profile-trophy)
