@@ -46,6 +46,7 @@ Mostly self-taught tech enthusiast and systems engineer.
 
 <details>
 <summary><b>💻 Coding</b></summary>
+  
 1. Python
 1. C/C++
 1. C#
