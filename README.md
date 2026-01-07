@@ -11,7 +11,6 @@
 
 <p align="center">
   <a href="mailto:Mi.Seifert@protonmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-contact-informational"></a>
-  <a href="https://www.linkedin.com/in/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-connect-blue"></a>
   <a href="https://M1sch.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-visit-success"></a>
 </p>
 
