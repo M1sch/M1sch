@@ -47,8 +47,6 @@ Mostly self-taught tech enthusiast and systems engineer.
 [![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=qml)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=sql)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 
 <!-- 
