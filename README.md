@@ -60,11 +60,12 @@ Mostly self-taught tech enthusiast and systems engineer.
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,cs,bash,git,html,css,js,sql)](https://skillicons.dev)
 
 </details>
-
+<!-- 
 ## Projects
 - 🔎 Detection Engineering Labs — _link_
 - 🧪 Home Lab Notes — _link_
 - 🎮 Game Dev Experiments — _link_
+ -->
 
 <!-- Optional: trophies -->
 <!--
