@@ -42,14 +42,14 @@ Mostly self-taught tech enthusiast and systems engineer.
 
 ### 💻 Coding
 
-- [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
-- [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
-- [![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
-- [![My Skills](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
-- [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
-- [![My Skills](https://skillicons.dev/icons?i=qml)](https://skillicons.dev)
-- [![My Skills](https://skillicons.dev/icons?i=sql)](https://skillicons.dev)
-- [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=qml)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 
 <!-- 
 ## Projects
