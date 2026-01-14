@@ -31,8 +31,7 @@ Mostly self-taught tech enthusiast and systems engineer.
 
 ## Skills
 
-<details>
-<summary><b>🧰 Administration & Troubleshooting</b></summary>
+### 🧰 Administration & Troubleshooting
 
 - Server administration (Windows/Linux)
 - Networking (DNS/DHCP, routing/switching basics, VPNs)
@@ -41,25 +40,19 @@ Mostly self-taught tech enthusiast and systems engineer.
 - Virtualization & Containers
 - Firewalls & Proxies
 
-</details>
+### 💻 Coding
 
-<details>
-<summary><b>💻 Coding</b></summary>
-  
-1. Python
-1. C/C++
-1. C#
-1. Bash
-1. Batch
-1. QML
-1. HTML/CSS/JS
-1. SQL
-1. Git
-
-**Skill icons (optional):**
+Python
+C/C++
+C#
+Bash
+Batch
+QML
+HTML/CSS/JS
+SQL
+Git
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,cs,bash,git,html,css,js,sql)](https://skillicons.dev)
 
-</details>
 <!-- 
 ## Projects
 - 🔎 Detection Engineering Labs — _link_
