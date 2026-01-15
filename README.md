@@ -23,7 +23,7 @@ Mostly self-taught tech enthusiast and systems engineer.
 
 ## What I’m doing right now
 - 🎯 Goal: move from general system engineering into **detection engineering** / **threat hunting** / **analasys**
-- 🌱 Deepening **CyberSec** (blue team), learning for Security+ Certification
+- 🌱 Deepening **CyberSec** (blue team), saving for Security+ Certification
 
 ## Currently paused, but will resume
 - 🎮 Learning game dev with **Godot** and **Unreal Engine**
