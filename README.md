@@ -6,7 +6,7 @@
 <h1 align="center">Hi, I'm Michael Seifert</h1>
 
 <p align="center">
-  <b>IT / Systems Engineer</b> · transitioning into <b>Detection Engineering</b> & <b>Threat Hunting</b>
+  <b>IT / Systems Engineer</b> · transitioning into <b>Cybersec</b>
 </p>
 
 <p align="center">
