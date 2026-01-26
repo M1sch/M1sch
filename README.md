@@ -22,7 +22,7 @@ Mostly self-taught tech enthusiast and systems engineer.
 - Focus: cybersecurity (logging, detections, hunting)
 
 ## What I’m doing right now
-- 🎯 Goal: move from general system engineering into **detection engineering** / **threat hunting** / **analasys**
+- 🎯 Goal: move from general system engineering into **detection engineering** / **threat hunting** / **analysis**
 - 🌱 Deepening **CyberSec** (blue team), saving for Security+ Certification
 
 ## Currently paused, but will resume
